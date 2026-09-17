@@ -60,54 +60,6 @@ Currently focused on **Java, Spring Boot, PostgreSQL, and backend architecture**
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🏦 Banking System
-
-**Java • Spring Boot • PostgreSQL**
-
-A backend banking application focused on:
-
-- Account management
-- Deposits & withdrawals
-- Money transfers
-- Authentication & authorization
-- Transaction management
-- Global exception handling
-
----
-
-### 🍽️ Restaurant Management System
-
-**ASP.NET Core • SQL Server • React**
-
-Full-stack restaurant management platform featuring:
-
-- 🔐 Authentication & Authorization
-- 🔑 JWT
-- 🌐 Google Authentication
-- 🍽️ Restaurant Management
-- 📅 Reservations
-- 🛒 Orders
-- 🐳 Docker
-
----
-
-### 📚 Library Management System
-
-**Java • OOP • Collections**
-
-Console-based Java application demonstrating:
-
-- Object-Oriented Programming
-- Collections
-- User & Book management
-- Borrow / Return operations
-- Exception handling
-
----
 
 ## 📚 Currently Learning
 
