@@ -1,76 +1,131 @@
-# Hi, I'm Hebib 👋
+# 👋 Hi, I'm Hebib
 
-### Java Backend Developer
+### ☕ Java Backend Developer
 
-I'm a backend-focused developer transitioning from C#/.NET to Java,
-currently building my skills in Spring Boot, PostgreSQL, and backend architecture.
+Backend-focused developer building **REST APIs and web applications**.
+
+Currently focused on **Java, Spring Boot, PostgreSQL, and backend architecture**, with previous experience in **C# / .NET** and frontend technologies.
+
+<p align="center">
+  <a href="https://github.com/V3RM1Ns">
+    <img src="https://img.shields.io/github/followers/V3RM1Ns?label=Followers&style=flat-square&logo=github">
+  </a>
+  <a href="https://github.com/V3RM1Ns">
+    <img src="https://img.shields.io/github/stars/V3RM1Ns?label=Stars&style=flat-square&logo=github">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+- 💻 Backend Development
+- ☕ Currently focusing on **Java & Spring Boot**
+- 🗄️ Working with **PostgreSQL & SQL Server**
+- 🔐 Interested in **Security, JWT & Authentication**
+- 🐳 Learning **Docker, Redis & Kafka**
+- 🏗️ Interested in **Microservices & System Design**
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+---
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,python,js" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Banking API
-Java + Spring Boot + PostgreSQL
+### 🏦 Banking System
 
-- RESTful API
-- JWT Authentication
-- Role-based authorization
+**Java • Spring Boot • PostgreSQL**
+
+A backend banking application focused on:
+
+- Account management
+- Deposits & withdrawals
+- Money transfers
+- Authentication & authorization
 - Transaction management
 - Global exception handling
 
-### 🍽️ Restaurant Management System
-ASP.NET Core + SQL Server + React
+---
 
-- Authentication & authorization
-- JWT
-- Google Authentication
-- Restaurant management
-- Reservations and orders
-- Docker
+### 🍽️ Restaurant Management System
+
+**ASP.NET Core • SQL Server • React**
+
+Full-stack restaurant management platform featuring:
+
+- 🔐 Authentication & Authorization
+- 🔑 JWT
+- 🌐 Google Authentication
+- 🍽️ Restaurant Management
+- 📅 Reservations
+- 🛒 Orders
+- 🐳 Docker
+
+---
+
+### 📚 Library Management System
+
+**Java • OOP • Collections**
+
+Console-based Java application demonstrating:
+
+- Object-Oriented Programming
+- Collections
+- User & Book management
+- Borrow / Return operations
+- Exception handling
 
 ---
 
 ## 📚 Currently Learning
 
-- Java
-- Spring Boot
-- Spring Security
-- PostgreSQL
-- Hibernate / JPA
-- Docker
-- Redis
-- Kafka
-- Microservices
-- System Design
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=V3RM1Ns&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V3RM1Ns&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL)
+```text
+☕ Java
+   ↓
+🌱 Spring Boot
+   ↓
+🔐 Spring Security + JWT
+   ↓
+🗄️ PostgreSQL + Hibernate
+   ↓
+🧪 Testing
+   ↓
+🐳 Docker
+   ↓
+⚡ Redis + Kafka
+   ↓
+🏗️ Microservices
+   ↓
+📐 System Design
