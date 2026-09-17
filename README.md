@@ -6,14 +6,6 @@ Backend-focused software engineer dedicated to building **scalable REST APIs, en
 
 Currently, I actively serve as a **Software Development Mentor at Code Academy**, guiding and teaching students in the **PA401 and PA303** groups. My technical stack centers around the **Java (Spring Boot)** and **C# (.NET)** ecosystems.
 
-<p align="center">
-  <a href="https://github.com/V3RM1Ns">
-    <img src="https://img.shields.io/github/followers/V3RM1Ns?label=Followers&style=flat-square&logo=github" />
-  </a>
-  <a href="https://github.com/V3RM1Ns">
-    <img src="https://img.shields.io/github/stars/V3RM1Ns?label=Stars&style=flat-square&logo=github" />
-  </a>
-</p>
 
 ---
 
@@ -37,17 +29,17 @@ Currently, I actively serve as a **Software Development Mentor at Code Academy**
 
 ### 🗄️ Databases & ORM
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,hibernate" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
 ### 🎨 Frontend Basics
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### 🔧 DevOps & Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,azure" />
 </p>
 
 ---
