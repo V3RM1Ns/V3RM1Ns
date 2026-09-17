@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Hebib
 
-### ☕ Java Backend Developer
+### ☕ Java & 🟣 C# Backend Developer | 👨‍🏫 Software Development Mentor
 
-Backend-focused developer building **REST APIs and web applications**.
+Backend-focused software engineer dedicated to building **scalable REST APIs, enterprise applications, and robust backend architectures**. 
 
-Currently focused on **Java, Spring Boot, PostgreSQL, and backend architecture**, with previous experience in **C# / .NET** and frontend technologies.
+Currently, I actively serve as a **Software Development Mentor at Code Academy**, guiding and teaching students in the **PA401 and PA303** groups. My technical stack centers around the **Java (Spring Boot)** and **C# (.NET)** ecosystems.
 
 <p align="center">
   <a href="https://github.com/V3RM1Ns">
-    <img src="https://img.shields.io/github/followers/V3RM1Ns?label=Followers&style=flat-square&logo=github">
+    <img src="https://img.shields.io/github/followers/V3RM1Ns?label=Followers&style=flat-square&logo=github" />
   </a>
   <a href="https://github.com/V3RM1Ns">
-    <img src="https://img.shields.io/github/stars/V3RM1Ns?label=Stars&style=flat-square&logo=github">
+    <img src="https://img.shields.io/github/stars/V3RM1Ns?label=Stars&style=flat-square&logo=github" />
   </a>
 </p>
 
@@ -19,65 +19,54 @@ Currently focused on **Java, Spring Boot, PostgreSQL, and backend architecture**
 
 ## 🚀 About Me
 
-- 💻 Backend Development
-- ☕ Currently focusing on **Java & Spring Boot**
-- 🗄️ Working with **PostgreSQL & SQL Server**
-- 🔐 Interested in **Security, JWT & Authentication**
-- 🐳 Learning **Docker, Redis & Kafka**
-- 🏗️ Interested in **Microservices & System Design**
+- 👨‍🏫 **Mentorship:** Software Development Mentor at **Code Academy** (Teaching groups **PA401** & **PA303**).
+- 🟣 **C# & .NET Ecosystem:** Extensive experience with **C#, ASP.NET Core Web API, Entity Framework Core, LINQ, and MS SQL Server**.
+- ☕ **Java Ecosystem:** Building secure RESTful services using **Java, Spring Boot, Spring Data JPA, and Hibernate**.
+- 🗄️ **Databases:** Relational database design, query optimization, and management with **PostgreSQL & SQL Server**.
+- 🔐 **Security & Auth:** Experienced in **JWT, Spring Security, and ASP.NET Core Identity**.
+- 🐳 **Currently Deepening:** **Docker, Redis, Apache Kafka, Microservices, and System Design**.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-### 💻 Programming Languages
-
+### 💻 Backend & Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,python,js" />
+  <img src="https://skillicons.dev/icons?i=java,cs,spring,dotnet,python,js" />
 </p>
 
-### 🎨 Frontend
+### 🗄️ Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,hibernate" />
+</p>
 
+### 🎨 Frontend Basics
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### 🔧 Tools
-
+### 🔧 DevOps & Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p>
 
+---
 
-## 📚 Currently Learning
+## 📚 Learning & Mentorship Roadmap
 
 ```text
-☕ Java
+☕ Java & 🟣 C# / .NET Fundamentals
    ↓
-🌱 Spring Boot
+🌐 Spring Boot & ASP.NET Core Web API
    ↓
-🔐 Spring Security + JWT
+🔐 Spring Security & Identity (JWT Auth)
    ↓
-🗄️ PostgreSQL + Hibernate
+🗄️ Relational DBs (PostgreSQL / SQL Server) + ORMs (Hibernate / EF Core)
    ↓
-🧪 Testing
+🧪 Unit & Integration Testing
    ↓
-🐳 Docker
+🐳 Containerization (Docker)
    ↓
-⚡ Redis + Kafka
+⚡ Caching & Messaging (Redis & Apache Kafka)
    ↓
-🏗️ Microservices
-   ↓
-📐 System Design
+🏗️ Microservices Architecture & System Design
